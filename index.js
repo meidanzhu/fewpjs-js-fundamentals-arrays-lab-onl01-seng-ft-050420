@@ -8,3 +8,6 @@ append;
 
 prepend.unshift("Odie");
 prepend;
+
+removeLast.pop();
+removeLast;
