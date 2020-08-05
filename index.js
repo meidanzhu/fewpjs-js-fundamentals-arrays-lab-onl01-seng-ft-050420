@@ -11,3 +11,6 @@ prepend;
 
 removeLast.pop();
 removeLast;
+
+removeFirst.shift();
+removeFirst;
